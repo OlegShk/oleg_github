@@ -1,0 +1,115 @@
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+}
+
+header nav ul li {
+  text-align: center;
+}
+
+header nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+
+
+
+
+/* Стили для заголовка страницы */
+#header {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* Стили для навигационных ссылок */
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Стили для блока "About Me" */
+#about {
+  background-color: #e8f5e9;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Стили для блока "Education" */
+#education {
+  background-color: #f3e5f5;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Стили для блока "Training/Courses" */
+#training {
+  background-color: #e1f5fe;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Стили для блока "Work Experience" */
+#experience {
+  background-color: #fce4ec;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Стили для блока "Skills/Competencies" */
+#skills {
+  background-color: #fff9c4;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+/* Стили для нижней части страницы */
+footer {
+  text-align: center;
+  margin-top: 50px; /* Регулируй отступ сверху по своему усмотрению */
+}
+
+/* Стили для блока социальных ссылок */
+#social-links {
+  margin: 0;
+  padding: 0;
+}
+
+#social-links ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#social-links ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+#social-links ul li a {
+  text-decoration: none;
+  color: #333;
+}
+/* Стили для иконок социальных сетей */
+#social-links ul li i {
+  margin-right: 5px;
+}
